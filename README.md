@@ -1,8 +1,11 @@
 -create react app
 -configured tailwind css 
 -Header
+Routing of App
 -Login Form
 -sign up form
+-useRef Hooks
+-Form Valdaton
 
 # features
 -Login/Sign Up
