@@ -5,7 +5,11 @@ Routing of App
 -Login Form
 -sign up form
 -useRef Hooks
--Form Valdaton
+-Form Valdation
+-Google firebse is used as backend and for auhenication
+-Firebase setup -firebase documetation
+-Deployed app to production
+-create sign up user account
 
 # features
 -Login/Sign Up
