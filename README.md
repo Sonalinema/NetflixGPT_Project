@@ -8,6 +8,9 @@ Routing of App
 -Form Valdation
 -Google firebse is used as backend and for auhenication
 -Firebase setup -firebase documetation
+-commands--
+firebase login
+
 -Deployed app to production
 -create sign up user account
 
@@ -25,3 +28,7 @@ Routing of App
 -Netflix GPT
   -Search Bar 
   -Movie Suggestionss 
+
+
+  - configure redux toolkit
+  
